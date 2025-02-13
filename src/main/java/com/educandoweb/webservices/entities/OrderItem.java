@@ -33,6 +33,10 @@ public class OrderItem {
     public Order getOrder(){
         return id.getOrder();
     }
+    
+    public Double getSubTotal(){
+        return price * quantity;
+    }
 
     public void setOrder(Order order){
         id.setOrder(order);
