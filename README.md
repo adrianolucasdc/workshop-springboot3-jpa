@@ -5,7 +5,7 @@
 
 Este projeto é uma aplicação backend construída utilizando Spring Boot, JPA (Java Persistence API), Hibernate e H2 Database, com o objetivo de fornecer uma API RESTful para o gerenciamento de dados em um sistema web.
 
-A aplicação consiste em um sistema de gerenciamento básico de dados de uma loja de eletronicos.
+A aplicação consiste em um sistema de gerenciamento básico de dados de uma loja de eletronicos. Esse Projeto foi feito durante o curso de Java do professor Nelio Alves pela plataforma da Udemy.
 
 ## Modelo conceitual
 ![Modelo Conceitual](https://github.com/adrianolucasdc/workshop-springboot3-jpa/blob/main/UML.png)
